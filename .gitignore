@@ -1,0 +1,12 @@
+.idea
+.pytest*
+.vscode
+
+.venv
+
+MNIST
+runs
+
+*.egg*
+build
+*__py*
